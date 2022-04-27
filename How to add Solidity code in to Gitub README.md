@@ -1,9 +1,8 @@
 ## Example
 
 A "Hello World" program in Solidity is of even less use than in other languages, but still:
-Use "```solidity"
 
-```solidity  Code Here  ```}
+Edit This README.md File and copy This Code
 
 ```solidity
 // SPDX-License-Identifier: MIT
