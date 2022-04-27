@@ -21,7 +21,7 @@ contract HelloWorld {
 }
 ```
 
-#Introduction to Smart Contracts
+# Introduction to Smart Contracts
 
 A Simple Smart Contract
 
